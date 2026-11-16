@@ -1,4 +1,4 @@
-# Microbuf-Dockerlabs
+# Microbug-Dockerlabs
 Máquina Windows vulnerable por el puerto 445 SMB.
 # Mario — DockerLabs
 
